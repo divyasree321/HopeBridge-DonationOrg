@@ -316,7 +316,7 @@ export default function Home() {
                   Beyond Aid. <br /><span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-500 italic">Ecosystems.</span>
                 </h2>
                 <p className="text-xl text-slate-500 dark:text-slate-400 font-medium leading-relaxed">
-                  We don't distribute "charity"—we engineer sustainability. Our partner-first model ensures that every dollar contributes to long-term community autonomy.
+                  We don&apos;t distribute &quot;charity&quot;—we engineer sustainability. Our partner-first model ensures that every dollar contributes to long-term community autonomy.
                 </p>
               </div>
               
@@ -381,7 +381,7 @@ export default function Home() {
                 <div className="bg-slate-900 p-10 rounded-[2.5rem] text-white space-y-6 shadow-4xl border border-white/5 relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-32 h-32 bg-emerald-500/10 blur-3xl -mr-16 -mt-16" />
                   <p className="italic text-2xl font-serif leading-snug tracking-tight text-slate-100 relative z-10">
-                    "HopeBridge doesn't just fund us; they validate our capability as local leaders."
+                    &quot;HopeBridge doesn&apos;t just fund us; they validate our capability as local leaders.&quot;
                   </p>
                   <div className="pt-4 flex items-center gap-4 relative z-10">
                     <div className="w-12 h-12 rounded-full overflow-hidden bg-slate-800">

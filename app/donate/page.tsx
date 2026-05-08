@@ -111,7 +111,7 @@ export default function Donate() {
                </div>
                <div className="space-y-1 pt-1">
                  <h4 className="text-xl font-bold text-white">Direct Aid</h4>
-                 <p className="text-slate-500 font-medium leading-relaxed">Every dollar is optimized to reach families and children directly where it's needed most.</p>
+                 <p className="text-slate-500 font-medium leading-relaxed">Every dollar is optimized to reach families and children directly where it&apos;s needed most.</p>
                </div>
              </div>
           </motion.div>
@@ -142,7 +142,7 @@ export default function Donate() {
                     exit={{ opacity: 0, y: -10 }}
                     className="text-xl font-medium text-slate-300 leading-snug italic"
                   >
-                    "{currentImpact}"
+                    &quot;{currentImpact}&quot;
                   </motion.p>
                 </AnimatePresence>
               </div>

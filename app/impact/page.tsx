@@ -196,7 +196,7 @@ export default function Impact() {
                    <Quote size={60} className="text-emerald-600/10 absolute -top-4 -left-4 group-hover:scale-110 transition-transform duration-500" />
                    
                    <p className="text-2xl font-serif font-bold text-slate-800 dark:text-slate-100 leading-snug italic relative z-10">
-                     "{story.text}"
+                     &quot;{story.text}&quot;
                    </p>
                    
                    <div className="flex items-center gap-5 pt-4">

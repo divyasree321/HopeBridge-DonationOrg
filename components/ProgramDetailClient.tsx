@@ -121,7 +121,7 @@ export default function ProgramDetailClient({ program }: ProgramDetailClientProp
              <div className="space-y-8">
                 <h3 className="text-4xl font-serif font-bold text-slate-900 dark:text-white tracking-tight leading-tight">The Human Velocity</h3>
                 <p className="text-xl text-slate-500 dark:text-slate-400 leading-relaxed italic">
-                  "HopeBridge does not just arrive with solutions; they arrive with humility. They asked us what we needed, instead of telling us what we lacked."
+                  &quot;HopeBridge does not just arrive with solutions; they arrive with humility. They asked us what we needed, instead of telling us what we lacked.&quot;
                 </p>
                 <div className="flex items-center gap-4">
                   <div className="w-14 h-14 rounded-2xl overflow-hidden bg-slate-200">

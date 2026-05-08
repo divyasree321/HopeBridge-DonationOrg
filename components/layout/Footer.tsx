@@ -21,7 +21,7 @@ export default function Footer() {
             </Link>
             
             <p className="text-slate-400 text-xl font-medium leading-relaxed max-w-sm">
-              Engineering sustainable autonomy for the world's most vulnerable communities through radical transparency.
+              Engineering sustainable autonomy for the world&apos;s most vulnerable communities through radical transparency.
             </p>
             
             <div className="flex items-center gap-6">

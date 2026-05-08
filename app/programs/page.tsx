@@ -107,7 +107,7 @@ export default function Programs() {
                   </h2>
                   <p className="text-xl text-slate-300 font-medium leading-relaxed max-w-2xl">
                     Deploying life-saving support and educational foundations for families in need. 
-                    Be the catalyst for a child's future.
+                    Be the catalyst for a child&apos;s future.
                   </p>
                </div>
 
