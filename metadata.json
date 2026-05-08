@@ -1,0 +1,10 @@
+{
+  "name": "Remix: HopeBridge",
+  "description": "A modern nonprofit platform connecting donors with high-impact social programs. Together, we build brighter futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Donations",
+    "Social Impact Tracking",
+    "Program Discovery"
+  ]
+}
